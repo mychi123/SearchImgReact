@@ -31,7 +31,6 @@ class Search extends Component {
                             color: 'white',
                             marginLeft: 570,
                             marginTop: 100,
-                            paddingTop: 100,
                             paddingLeft: 70,
                             fontSize: 30,
                             borderTopStyle: "hidden",
